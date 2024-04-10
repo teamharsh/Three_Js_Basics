@@ -1,0 +1,20 @@
+{
+  "name": "threetut",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "three": "^0.141.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0"
+  }
+}
