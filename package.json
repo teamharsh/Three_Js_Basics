@@ -11,11 +11,11 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "dat.gui": "^0.7.7",
-    "three": "^0.141.0"
+    "dat.gui": "^0.7.9",
+    "three": "^0.165.0"
   },
   "devDependencies": {
-    "@parcel/transformer-image": "^2.0.0",
-    "parcel-bundler": "^1.12.5"
+    "@parcel/transformer-image": "^2.12.0",
+    "parcel": "^2.0.0"
   }
 }
